@@ -17,3 +17,7 @@ It will run invisibly, so don't worry if nothing shows on the screen, also allow
 **How can i download F0RB1DD3N startup commands?**
 
 You can download F0RB1DD3N startup commands [here](https://github.com/F0RB1DD3NScripts/F0RB1DD3N-Startup-commands/releases/tag/optimizations)
+
+**I don't know how to install F0RB1DD3N startup commands**
+
+You can find a tutorial [here](https://youtu.be/qcHZteQsnAg)
