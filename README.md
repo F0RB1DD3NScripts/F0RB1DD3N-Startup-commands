@@ -1,6 +1,7 @@
 **F0RB1DD3N Startup commands © 2024 by [F0RB1DD3N Scripts](https://github.com/F0RB1DD3NScripts) is licensed under Creative Commons Attribution-NonCommercial 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/**
 
 This is a open-source project designed to run during startup. Here is a list of the commands that will be executed during startup.
+I would be happy to accept any donations, so here is my paypal qr-code https://drive.google.com/file/d/1ojbNNro1NMVpNkRq5kei0w1glWd2VZyF/view?usp=sharing
 
 @echo off
 ipconfig /flushdns
